@@ -1,0 +1,83 @@
+﻿@model Ecommerce.Application.Handlers.Booking.Commands.CreateBookingCommand
+
+@{
+    ViewData["Title"] = "Add Booking";
+    Layout = LayoutPage.AdminLayout;
+}
+
+@section Styles{
+    <link href="/others/css/hierarchy-select.min.css" rel="stylesheet" />
+}
+
+<div class="page-title-box">
+    <h4 class="page-title">Add Booking</h4>
+</div>
+
+
+<div class="card mb-4">
+    <div class="card-header">
+        <div class="card-title">Add New Booking</div>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="mb-3">
+                        <label asp-for="Name" class="control-label"></label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="FromDate" class="control-label"></label>
+                        <div class="bg-light py-3 px-2">
+                            <input asp-for="FromDate" class="form-control" />                         
+                        </div>
+                        <span asp-validation-for="FromDate" class="text-danger"></span>
+                    </div> 
+                    <div class="mb-3">
+                        <label asp-for="Enđate" class="control-label"></label>
+                        <div class="bg-light py-3 px-2">
+                            <input asp-for="Enđate" class="form-control" />                          
+                        </div>
+                        <span asp-validation-for="Enđate" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Description" class="control-label"></label>
+                        <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Phone" class="control-label"></label>
+                        <textarea asp-for="Phone" class="form-control" rows="4"></textarea>
+                        <span asp-validation-for="Phone" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Email" class="control-label"></label>
+                        <textarea asp-for="Email" class="form-control" rows="4"></textarea>
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Amount" class="control-label"></label>
+                        <textarea asp-for="Amount" class="form-control" rows="4"></textarea>
+                        <span asp-validation-for="Amount" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Status" class="control-label"></label>
+                        <textarea asp-for="Status" class="form-control" rows="4"></textarea>
+                        <span asp-validation-for="Status" class="text-danger"></span>
+                    </div>
+                 
+                    <div class="d-grid gap-2 d-md-block">
+                        <button type="submit" class="btn btn-blue">Save</button>
+                    </div>
+                </form>
+                <div class="d-grid gap-2 d-md-block mt-3">
+                    <a asp-action="Index" class="btn btn-carrot-outline"><i class="fa fa-reply"></i> Back to List</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Image select modal -->

@@ -1,0 +1,464 @@
+﻿@using System.Globalization
+@model Ecommerce.Application.Handlers.TicketBooking.Commands.CreateTicketBookingCommand;
+
+@{
+    ViewData["Title"] = "CreateQR";
+   // Layout = LayoutPage.ShopLayout;
+    CultureInfo cul = CultureInfo.GetCultureInfo("vi-VN");   // try with "en-US"
+}
+<style>
+    .input-group > .form-control, .input-group > .form-select {
+        position: relative;
+        -webkit-box-flex: 1;
+        -ms-flex: 1 1 auto;
+        flex: 1 1 auto;
+        width: 1%;
+        min-width: 500px !important;
+    }
+</style>
+
+<div class="container">
+
+    <hr />
+    <div class="row">
+        <h1>Tạo mã QR đơn hàng</h1>
+        <div class="col-md-6">
+            <form asp-action="CreateQR">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="alert alert-info">
+                    <div class="mb-3">
+                        <label asp-for="DoiTac" class="control-label">Chọn Đối tác</label>
+                        <select asp-for="DoiTac" class="form-select" asp-items="ViewBag.DoiTacList">
+                            <option value="">------</option>
+                        </select>
+                        <span asp-validation-for="DoiTac" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="KeySpecs">Key Point</label>
+                        <input hidden />
+                        <div class="bg-light py-3 px-2 my-2 key-point-items">
+                            @if (Model?.KeySpecsList?.Count() > 0)
+                            {
+                                var last = Model.KeySpecsList.Last();
+                                @foreach (var item in Model.KeySpecsList)
+                                {
+                                    if (item.Equals(last))
+                                    {
+                                        <div class="input-group mb-2 key-point">
+                                            <input type="text" class="form-control me-2" maxlength="70" value="@item">
+                                            <button class="btn btn-sm btn-grass-2-outline add-key-point" type="button"><i class="fa-solid fa-plus"></i></button>
+                                        </div>
+                                    }
+                                    else
+                                    {
+                                        <div class="input-group mb-2 key-point">
+                                            <input type="text" class="form-control me-2" maxlength="70" value="@item">
+                                            <button class="btn btn-sm btn-carrot-outline remove-key-point" type="button"><i class="fa-solid fa-trash"></i></button>
+                                        </div>
+                                    }
+                                }
+                            }
+                            else
+                            {
+                                <div class="input-group mb-2 key-point">
+                            
+                                    <label>  Số vé Người lớn</label>
+                                        <input asp-for="TongNguoiLon.SoLuong" class="form-control me-2" />
+                                    <input asp-for="TongNguoiLon.Tong" class="form-control me-2" />
+                                
+                                  
+                                    <label>  Số vé Trẻ em</label>
+                                    <input asp-for="TongTreEm.SoLuong" class="form-control me-2" />
+                                    <input asp-for="TongTreEm.Tong" class="form-control me-2" />
+                                      
+                                </div>
+
+                            }
+
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="SanphamDichvu" class="control-label"></label>
+                        <textarea rows="4" asp-for="SanphamDichvu" class="form-control"></textarea>
+                        <span asp-validation-for="SanphamDichvu" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Tongtien" class="control-label"></label>
+                        <input asp-for="Tongtien" class="form-control" readonly />
+                        <p id="tongT"> </p> vnđ
+                        <span asp-validation-for="Tongtien" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="LoaiThanhToan" class="control-label"></label>
+                        <input rows="4" asp-for="LoaiThanhToan" class="form-control"></input>
+                        <span asp-validation-for="LoaiThanhToan" class="text-danger"></span>
+                    </div>
+
+                </div>
+                <h3>Thông tin Khách hàng</h3>
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Phone" class="control-label"></label>
+                    <input asp-for="Phone" class="form-control" />
+                    <span asp-validation-for="Phone" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label"></label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Address" class="control-label"></label>
+                    <input asp-for="Address" class="form-control" />
+                    <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Note" class="control-label"></label>
+                    <input asp-for="Note" class="form-control" />
+                    <span asp-validation-for="Note" class="text-danger"></span>
+                    <span asp-validation-for="Note" class="text-danger"></span>
+                </div>
+
+                @*  <div class="form-group">
+                <input type="submit" value="Tạo mã QR Code" class="btn btn-primary text-center" />
+                </div> *@
+                <div class="d-grid gap-2 d-md-block">
+                    <button type="submit" class="btn btn-blue">Tạo mã QR Code</button>
+                </div>
+            </form>
+
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <h1>THÔNG TIN ĐẶT HÀNG </h1>
+                @if (Model != null)
+                {
+                    <div class="form-group" style="padding-left:45px">
+                        <label class="control-label">Mã quyét QR</label>
+                        <img src="@ViewBag.QrCodeUri" class="img-thumbnail" width="250px" />
+                    </div>
+                    <div class="form-group">
+                        <div class="col-lg-12">
+                            <div class="card mb-4">
+                                <div class="card-body">
+                                    <div class="row">
+                                        <table class="table table-striped ">
+                                            <tbody>
+                                                <tr>
+                                                    <td>Đối tác</td>
+                                                    <td>@Model.DoiTac</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Họ và tên / Custommer`s Name</td>
+                                                    <td>@Model.Name</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Số điện thoại / Phone</td>
+                                                    <td colspan="2">@Model.Phone</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Ngày đặt / Order Date</td>
+                                                    <td colspan="2">@Model.Ngaydathang</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Mã đơn hàng / Order Code</td>
+                                                    <td colspan="2">@Model.MaDonHang</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Phương thức Thanh toán / Payment</td>
+                                                    <td colspan="2">@Model.LoaiThanhToan</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Sản phẩm/ Dịch vụ</td>
+                                                    <td colspan="2">@Html.Raw(Model.SanphamDichvu)</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+
+                                    <div class="row">
+                                        <table class="table table-striped ">
+                                            <thead>
+                                                <tr>
+                                                    <th scope="col">Loại vé</th>
+                                                    <th scope="col">Số lượng</th>
+                                                    <th scope="col">Tổng tiền</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+
+                                                    <td>Người lớn</td>
+                                                    <td>@Model.TongNguoiLon.SoLuong</td>
+                                                    <td>@Model.TongNguoiLon.Tong.ToString("#,###", cul.NumberFormat)</td>
+                                                </tr>
+
+                                                <tr>
+
+                                                    <td>Trẻ em</td>
+                                                    <td>@Model.TongTreEm.SoLuong</td>
+                                                    <td>@Model.TongTreEm.Tong.ToString("#,###", cul.NumberFormat)</td>
+                                                </tr>
+                                                <tr>
+
+                                                    <td>Tổng cộng</td>
+
+                                                    <td colspan="2">@Model.Tongtien.ToString("#,###", cul.NumberFormat)</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+
+
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <p class="mb-0">Ghi chú</p>
+                                        </div>
+                                        <div class="col-sm-9">
+                                            <p class="text-muted mb-0">@Html.Raw(Model.Note)</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="card mb-4 mb-md-0">
+                                        <div class="card-body">
+                                            <p class="mb-4"><span class="text-primary font-italic me-1">ĐIỀU KHOẢN</span>  VÀ ĐIỀU KIỆN </p>
+
+                                            <p class="mt-4 mb-1" style="font-size:13px">-	Không hoàn tiền cho vé đã thanh toán. </p>
+                                            <div class="progress rounded mb-2" style="height: 5px;">
+                                                <div class="progress-bar" role="progressbar" style="width: 66%" aria-valuenow="66" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+
+                                            <p class="mt-4 mb-1" style="font-size: .77rem;">
+                                                - Người mua trình vé tại quầy vé để sử dụng dịch vụ/ sản phẩm.<br />
+                                                -	Người mua chịu trách nhiệm bảo mật thông tin mã vé. <br />
+                                                -	Khi mua vé, tức là người mua đã đồng ý với các điều khoản và điều kiện được ghi rõ tại ticketvip.vn.<br />
+
+                                            </p>
+                                            <div class="progress rounded" style="height: 5px;">
+                                                <div class="progress-bar" role="progressbar" style="width: 89%" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card mb-4 mb-md-0">
+                                        <div class="card-body">
+                                            <p class="mb-4"><span class="text-primary font-italic me-1">Thông tin </span> xin vui lòng liên hệ </p>
+                                            <p class="mb-1" style="font-size: .77rem;">
+                                                Điện thoại / Phone : 0983249297<br />
+                                                Hotline/Zalo: 0983249297<br />
+                                                Email / Email:  dalatreview.vn@gmail.com<br />
+
+                                            </p>
+                                            <div class="progress rounded" style="height: 5px;">
+                                                <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                            <p class="mt-4 mb-1" style="padding-left:40px">
+                                                <img src="https://ticketvip.vn/gallery/a2ed58af-b6e6-46f1-8830-f8c19e18217b.jpg" width="120px" title="Ticketvip.vn" />
+                                            </p>
+                                            <div class="progress rounded" style="height: 5px;">
+                                                <div class="progress-bar" role="progressbar" style="width: 72%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                @{
+                                    string img = Model.MaDonHang + ".jpg";
+                                    string pdf = Model.MaDonHang + ".pdf";
+
+                                }
+                                <a class="btn btn-success" target="_blank" href="~/@img">In vé Image</a>
+                                <a class="btn btn-danger" target="_blank" href="~/@pdf">In vé PDF</a>
+                              
+                            </div>
+                        </div>
+                    </div>
+
+                }
+            </div>
+        </div>
+    </div>
+
+</div>
+
+@section Scripts {
+    <script>
+        $(document).on('click', '.add-key-point', function () {
+            var removeBtn = '<button class="btn btn-sm btn-carrot-outline remove-key-point" type="button"><i class="fa-solid fa-trash"></i></button>';
+            $('.key-point-items .key-point button').replaceWith(removeBtn);
+
+            var keyPoint = `<div class="input-group mb-2 key-point">
+                                                                                        <input type="text" class="form-control maxlength="70" me-2">
+                                                                                        <button class="btn btn-sm btn-grass-2-outline add-key-point" type="button"><i class="fa-solid fa-plus"></i></button>
+                                                                                    </div>`;
+
+            $(".key-point-items").append(keyPoint);
+        });
+
+        $(document).on('click', '.remove-key-point', function (e) {
+            e.preventDefault();
+            swal({
+                title: "Delete Confirm?",
+                text: "Are you wanted to delete this section?",
+                icon: "warning",
+                buttons: true,
+                dangerMode: true,
+                reverseButtons: true,
+            }).then((willDelete) => {
+                if (willDelete) {
+                    $(this).closest('.key-point').remove();
+                } else {
+                    //swal("Your file is safe!");
+                }
+            });
+        });
+    </script>
+    <script>
+        //tình tổng tiền
+        $("#TongNguoiLon_Tong").on("change", function () {
+            var nguoilon = parseFloat($("#TongNguoiLon_Tong").val());
+            var nguoilonSL = parseFloat($("#TongNguoiLon_SoLuong").val());
+
+            var t = parseFloat($("#TongTreEm_Tong").val());
+            var nguoilonTE = parseFloat($("#TongTreEm_SoLuong").val());
+
+            var tong1 = nguoilon * nguoilonSL;
+            var tong2 = t * nguoilonTE;
+            var tong = tong1 + tong2;
+            $("input[name=Tongtien]").val(tong);
+
+            //$("#Tongtien").val(tong);
+            //  alert(tong);
+            //  $("#Tongtien").val(tong);
+
+        });
+        $("#TongTreEm_Tong").on("change", function () {
+            var nguoilon = parseFloat($("#TongNguoiLon_Tong").val());
+            var nguoilonSL = parseFloat($("#TongNguoiLon_SoLuong").val());
+
+            var t = parseFloat($("#TongTreEm_Tong").val());
+            var nguoilonTE = parseFloat($("#TongTreEm_SoLuong").val());
+
+            var tong1 = nguoilon * nguoilonSL;
+            var tong2 = t * nguoilonTE;
+            var tong = tong1 + tong2; 
+            $("input[name=Tongtien]").val(tong);
+            //  alert(tong);
+            //  $("#Tongtien").val(tong);
+
+        });
+        //tình tổng tiền
+        $("#TongNguoiLon_SoLuong").on("change", function () {
+            var nguoilon = parseFloat($("#TongNguoiLon_Tong").val());
+            var nguoilonSL = parseFloat($("#TongNguoiLon_SoLuong").val());
+
+            var t = parseFloat($("#TongTreEm_Tong").val());
+            var nguoilonTE = parseFloat($("#TongTreEm_SoLuong").val());
+            var tong1 = nguoilon * nguoilonSL;
+            var tong2 = t * nguoilonTE;
+            var tong = tong1 + tong2; 
+         
+            $("input[name=Tongtien]").val(tong);
+            //  alert(tong);
+            //  $("#Tongtien").val(tong);
+
+        });//tình tổng tiền
+        $("#TongTreEm_SoLuong").on("change", function () {
+            var nguoilon = parseFloat($("#TongNguoiLon_Tong").val());
+            var nguoilonSL = parseFloat($("#TongNguoiLon_SoLuong").val());
+
+            var t = parseFloat($("#TongTreEm_Tong").val());
+            var nguoilonTE = parseFloat($("#TongTreEm_SoLuong").val());
+
+            var tong1 = nguoilon * nguoilonSL;
+            var tong2 = t * nguoilonTE;
+            var tong = tong1 + tong2; //alert(tong);
+            $("input[name=Tongtien]").val(tong);
+            //  alert(tong);
+            //  $("#Tongtien").val(tong);
+
+        });
+        //tình tổng tiền
+        $("#tre_em").on("change", function () {
+            alert("Handler for `change` têm.");
+        });
+        //Collect data
+        $("#saveVariant").click(function (e) {
+            e.preventDefault();
+
+
+
+            var keySpecs = $('.key-point-items .key-point input').map(function () {
+                return $(this).val();
+            }).get();
+
+            var tongNguoiLon = JSON.stringify({
+                SoLuong: $("#TongNguoiLon_SoLuong").val(),
+                Tong: $("#TongNguoiLon_Tong").val(),
+
+            });
+            var tongTreEm = JSON.stringify({
+
+                SoLuong: $("#TongTreEm_SoLuong").val(),
+                Tong: $("#TongTreEm_Tong").val(),
+            });
+
+            var data = JSON.stringify({
+                Id: $("#Id").val(),
+                DoiTac: $("#DoiTac").val(),
+                SanphamDichvu: $("#SanphamDichvu").val(),
+                KeySpecs: JSON.stringify(keySpecs),
+                Tongtien: $("#Tongtien").val(),
+                Name: $("#Name").val(),
+                Email: $("#Email").val(),
+                Phone: $("#Phone").val(),
+                Address: $("#Address").val(),
+                Note: $("#Note").val(),
+                UserName: $("#UserName").val(),
+                TongNguoiLon: tongNguoiLon,
+                TongTreEm: tongTreEm,
+            });
+
+
+            $.when(saveVariant(data)).then(function (response) {
+                //if success
+                console.log(response);
+                notifier.open({ type: "success", message: "Product Updated" });
+                //alertify.message('Product Updated');
+            }).fail(function (err) {
+                console.log(err);
+                notifier.open({ type: "error", message: err });
+            });
+        });
+
+        function saveVariant(data) {
+            var obj = jQuery.parseJSON(data);
+            return $.ajax({
+                url: "/QR/CreateQR",
+                type: 'POST',
+                data: obj,
+                success: function (result) {
+                    console.log(result);
+                    //location.reload();
+                },
+                error: function () {
+                    alert("Error!")
+                }
+            });
+        }
+
+
+    </script>
+}

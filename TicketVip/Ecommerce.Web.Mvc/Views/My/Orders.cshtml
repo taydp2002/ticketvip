@@ -1,0 +1,77 @@
+﻿@using Ecommerce.Application.Dto.Ticket
+@model IEnumerable<TicketBookOrderDto>
+
+@{
+    ViewData["Title"] = "My Orders";
+    Layout = LayoutPage.ShopLayout;
+    GeneralConfigurationDto conGen = JsonSerializer.Deserialize<GeneralConfigurationDto>(K["GeneralConfiguration"])!;
+    var orderList = Model.ToList();
+}
+
+
+<div class="top-header bg-soft-ocean">
+    <div class="container">
+        <div class="page-title">
+            <span>Thông tin tài khoản</span>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="p-4 content-section customer-profile">
+        <div class="row">
+            <div class="col-md-4">
+                <partial name="_CustomerAccountTab" />
+            </div>
+            <div class="col-md-8">
+                <div class="tab-content" id="v-pills-tabContent">
+                    <div class="tab-pane fade bg-white show active">
+                        <h5 class="mb-3 text-uppercase fw-bold">Danh sách vé đã soát Checkout</h5>
+                        <div>
+                            @if (orderList?.Count()>0)
+                            {
+                                @foreach (var order in orderList)
+                                {
+                                    <div class="border my-2">
+                                        <div class="border-bottom p-2 lh-sm">
+                                            <strong class="d-block"><span><i class="fa-solid fa-file-invoice me-1"></i></span>Mã đơn hàng: <span class="text-sky">@order.MaDonHang</span></strong>
+                                            <div>
+                                                <small><strong>Thời gian check: </strong><span>@DateTime.Parse(order?.LastModifiedDate.ToString()).ToString("dd MMM yyyy")</span></small>
+                                                <span>,</span>
+                                                <small><strong>Trạng Thái: </strong><span class="badge bg-soft-sky fw-500 badge-md">@if (order.Status==2)
+                                                        {
+                                                            <span style="btn btn-success">Thành Công</span>
+                                                        }else
+                                                        {
+                                                            <span style="btn btn-dange">Lỗi </span>
+                                                        }
+
+                                                    </span></small>
+                                            </div>
+                                            <div>
+                                                <div>Sản phẩm, Dịch vụ: @order.SanphamDichvu</div>
+                                             
+                                                <small class="">
+                                                    Số tiền:
+                                                    <span class="text-carrot"><bdi class="@(conGen?.CurrencyPosition == CurrencyPosition.End ? "currency-swap" : "")"> <span>@conGen?.CurrencySymbol</span><span>@order?.Tongtien</span></bdi></span>
+                                                    
+                                                </small>
+                                            </div>
+                                        </div>
+                                      
+                                        <div class="border-top p-2">
+                                            <a asp-action="TrackOrder" asp-controller="My" asp-route-invoiceNo="@order.MaDonHang" class="text-green"><i class="fa-solid fa-location-dot"></i><small class="ms-1">Track Order</small></a>
+                                        </div>
+                                    </div>
+                                }
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/others/js/customer-account.js"></script>
+}

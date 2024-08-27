@@ -1,0 +1,1321 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\account-info.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\account-info.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\add-to-cart.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\add-to-cart.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\address.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\address.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\contact-us.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-us.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\continue-shopping.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\continue-shopping.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\direction.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\direction.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\envelope-bro.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\envelope-bro.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\envelope-rafiki.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\envelope-rafiki.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\location-tracking-green.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\location-tracking-green.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\location-tracking-pana.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\location-tracking-pana.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\location-tracking-yellow0.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\location-tracking-yellow0.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\location-tracking-yellow1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\location-tracking-yellow1.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\location-tracking.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\location-tracking.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\mobile-login-amico2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\mobile-login-amico2.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\no-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\no-image.png"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\nothing-found-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\nothing-found-1.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\nothing-found.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\nothing-found.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\order-list.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\order-list.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\password.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\password.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\password2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\password2.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\payment\\amex.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\amex.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\payment\\cash.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\cash.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\payment\\discover.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\discover.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\payment\\mastercard.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\mastercard.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\payment\\paypal-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\paypal-1.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\payment\\paypal-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\paypal-2.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\payment\\paypal.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\paypal.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\payment\\stripe_4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\stripe_4.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\payment\\visa.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\visa.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\people-logout.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\people-logout.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\profile\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\1.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\profile\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\2.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\profile\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\3.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\profile\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\4.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\profile\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\5.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\profile\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\6.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\profile\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\7.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\profile\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\8.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\review.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\review.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\signin-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\signin-2.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\signin.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\signin.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\signup-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\signup-2.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\signup.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\signup.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\space-rocket-yellow.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\space-rocket-yellow.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\successful-purchase.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\successful-purchase.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\assets\\images\\tick.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\tick.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\css\\offcanvas.css",
+      "PackagePath": "staticwebassets\\css\\offcanvas.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\css\\responsemenu.css",
+      "PackagePath": "staticwebassets\\css\\responsemenu.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\document.pdf",
+      "PackagePath": "staticwebassets\\document.pdf"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\gallery\\139abd24-00b3-47ae-9002-235d8ef7cf9f.jpg",
+      "PackagePath": "staticwebassets\\gallery\\139abd24-00b3-47ae-9002-235d8ef7cf9f.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\gallery\\1beb3267-385d-44a3-bc11-867868ebc2a6.jpg",
+      "PackagePath": "staticwebassets\\gallery\\1beb3267-385d-44a3-bc11-867868ebc2a6.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\gallery\\35995ebd-c11c-4cca-943a-0eea891349b8.jpg",
+      "PackagePath": "staticwebassets\\gallery\\35995ebd-c11c-4cca-943a-0eea891349b8.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\gallery\\3b302dcd-6ebb-4709-ae36-d67d48912d6d.png",
+      "PackagePath": "staticwebassets\\gallery\\3b302dcd-6ebb-4709-ae36-d67d48912d6d.png"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\gallery\\3db5a58e-b22b-461a-9b82-5b6dff50a8b6.jpg",
+      "PackagePath": "staticwebassets\\gallery\\3db5a58e-b22b-461a-9b82-5b6dff50a8b6.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\gallery\\41547804-23bf-4805-8ffc-aa479c6ca1a7.ico",
+      "PackagePath": "staticwebassets\\gallery\\41547804-23bf-4805-8ffc-aa479c6ca1a7.ico"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\gallery\\41a20e21-4006-4751-9c77-79a1161ccdad.jpg",
+      "PackagePath": "staticwebassets\\gallery\\41a20e21-4006-4751-9c77-79a1161ccdad.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\gallery\\563a85e8-a32b-4cf5-9101-f5382520bb84.jpg",
+      "PackagePath": "staticwebassets\\gallery\\563a85e8-a32b-4cf5-9101-f5382520bb84.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\gallery\\7a194a5b-0f74-4c46-b212-92ec726c8166.png",
+      "PackagePath": "staticwebassets\\gallery\\7a194a5b-0f74-4c46-b212-92ec726c8166.png"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\gallery\\7f6951b6-30d8-44a5-a8c4-405de1fb8fa5.jpg",
+      "PackagePath": "staticwebassets\\gallery\\7f6951b6-30d8-44a5-a8c4-405de1fb8fa5.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\gallery\\86c659d3-b20f-454c-a460-0dafc1ace20d.png",
+      "PackagePath": "staticwebassets\\gallery\\86c659d3-b20f-454c-a460-0dafc1ace20d.png"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\gallery\\ad5088b0-6274-42d5-b1ba-0e34be650f9a.jpg",
+      "PackagePath": "staticwebassets\\gallery\\ad5088b0-6274-42d5-b1ba-0e34be650f9a.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\gallery\\c8d84514-9006-447b-8a8d-c689227d3782.jpg",
+      "PackagePath": "staticwebassets\\gallery\\c8d84514-9006-447b-8a8d-c689227d3782.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\gallery\\c8ea7fbf-736b-42f5-a49c-f16aea0a7674.svg",
+      "PackagePath": "staticwebassets\\gallery\\c8ea7fbf-736b-42f5-a49c-f16aea0a7674.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\gallery\\da2d04a2-9e9b-4430-bc42-7fdd8c8dd8ef.ico",
+      "PackagePath": "staticwebassets\\gallery\\da2d04a2-9e9b-4430-bc42-7fdd8c8dd8ef.ico"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\js\\jquery-3.6.3.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.3.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\js\\jquery.number.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.number.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\js\\offcanvas.js",
+      "PackagePath": "staticwebassets\\js\\offcanvas.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\js\\pre.js",
+      "PackagePath": "staticwebassets\\js\\pre.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\js\\responsemenu.js",
+      "PackagePath": "staticwebassets\\js\\responsemenu.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\js\\su.form.populate.js",
+      "PackagePath": "staticwebassets\\js\\su.form.populate.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\Chart.js\\chart.min.js",
+      "PackagePath": "staticwebassets\\lib\\Chart.js\\chart.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\Chart.js\\chart.umd.min.js",
+      "PackagePath": "staticwebassets\\lib\\Chart.js\\chart.umd.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\OwlCarousel2\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\OwlCarousel2\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\OwlCarousel2\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\OwlCarousel2\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\OwlCarousel2\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\OwlCarousel2\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\datatables-buttons\\buttons.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables-buttons\\buttons.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\datatables-buttons\\buttons.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables-buttons\\buttons.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\datatables-buttons\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables-buttons\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\datatables-buttons\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables-buttons\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\datatables-buttons\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables-buttons\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\datatables-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\datatables.net\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables.net\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\datatables.net\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables.net\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\datatables.net\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables.net\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\datatables.net\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables.net\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\datatables.net\\responsive.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables.net\\responsive.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\datatables.net\\responsive.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables.net\\responsive.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\dayjs\\dayjs.min.js",
+      "PackagePath": "staticwebassets\\lib\\dayjs\\dayjs.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\flatpickr\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\lib\\flatpickr\\flatpickr.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\flatpickr\\flatpickr.min.js",
+      "PackagePath": "staticwebassets\\lib\\flatpickr\\flatpickr.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\jquery-nice-select\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-nice-select\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\jquery-nice-select\\css\\nice-select.min.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-nice-select\\css\\nice-select.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\jquery-nice-select\\css\\nice-select.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\jquery-nice-select\\css\\nice-select.min.css.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\jquery-nice-select\\js\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-nice-select\\js\\jquery.nice-select.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\jquery-nice-select\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-nice-select\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\jquery-validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\jqueryui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\lib\\jqueryui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\popper.js\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\popper.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\lib\\summernote\\font\\summernote.eot"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\lib\\summernote\\font\\summernote.ttf"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\lib\\summernote\\font\\summernote.woff"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\font\\summernote.woff2",
+      "PackagePath": "staticwebassets\\lib\\summernote\\font\\summernote.woff2"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ar-AR.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ar-AR.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ar-AR.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ar-AR.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ar-AR.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ar-AR.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-az-AZ.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-az-AZ.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-az-AZ.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-az-AZ.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-az-AZ.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-az-AZ.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-bg-BG.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-bg-BG.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-bg-BG.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-bg-BG.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-bg-BG.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-bg-BG.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-bn-BD.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-bn-BD.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-bn-BD.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-bn-BD.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-bn-BD.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-bn-BD.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ca-ES.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ca-ES.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ca-ES.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ca-ES.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ca-ES.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ca-ES.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-cs-CZ.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-cs-CZ.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-cs-CZ.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-cs-CZ.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-cs-CZ.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-cs-CZ.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-da-DK.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-da-DK.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-da-DK.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-da-DK.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-da-DK.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-da-DK.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-de-CH.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-de-CH.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-de-CH.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-de-CH.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-de-CH.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-de-CH.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-de-DE.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-de-DE.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-de-DE.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-de-DE.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-de-DE.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-de-DE.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-el-GR.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-el-GR.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-el-GR.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-el-GR.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-el-GR.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-el-GR.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-en-US.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-en-US.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-en-US.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-en-US.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-en-US.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-en-US.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-es-ES.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-es-ES.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-es-ES.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-es-ES.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-es-ES.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-es-ES.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-es-EU.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-es-EU.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-es-EU.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-es-EU.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-es-EU.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-es-EU.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-fa-IR.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-fa-IR.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-fa-IR.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-fa-IR.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-fa-IR.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-fa-IR.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-fi-FI.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-fi-FI.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-fi-FI.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-fi-FI.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-fi-FI.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-fi-FI.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-fr-FR.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-fr-FR.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-fr-FR.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-fr-FR.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-fr-FR.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-fr-FR.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-gl-ES.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-gl-ES.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-gl-ES.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-gl-ES.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-gl-ES.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-gl-ES.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-he-IL.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-he-IL.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-he-IL.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-he-IL.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-he-IL.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-he-IL.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-hr-HR.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-hr-HR.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-hr-HR.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-hr-HR.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-hr-HR.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-hr-HR.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-hu-HU.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-hu-HU.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-hu-HU.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-hu-HU.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-hu-HU.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-hu-HU.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-id-ID.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-id-ID.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-id-ID.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-id-ID.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-id-ID.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-id-ID.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-it-IT.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-it-IT.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-it-IT.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-it-IT.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-it-IT.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-it-IT.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ja-JP.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ja-JP.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ja-JP.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ja-JP.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ja-JP.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ja-JP.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ko-KR.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ko-KR.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ko-KR.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ko-KR.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ko-KR.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ko-KR.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-lt-LT.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-lt-LT.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-lt-LT.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-lt-LT.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-lt-LT.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-lt-LT.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-lt-LV.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-lt-LV.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-lt-LV.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-lt-LV.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-lt-LV.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-lt-LV.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-mn-MN.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-mn-MN.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-mn-MN.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-mn-MN.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-mn-MN.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-mn-MN.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-nb-NO.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-nb-NO.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-nb-NO.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-nb-NO.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-nb-NO.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-nb-NO.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-nl-NL.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-nl-NL.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-nl-NL.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-nl-NL.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-nl-NL.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-nl-NL.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-pl-PL.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-pl-PL.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-pl-PL.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-pl-PL.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-pl-PL.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-pl-PL.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-pt-BR.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-pt-BR.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-pt-BR.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-pt-BR.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-pt-BR.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-pt-BR.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-pt-PT.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-pt-PT.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-pt-PT.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-pt-PT.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-pt-PT.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-pt-PT.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ro-RO.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ro-RO.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ro-RO.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ro-RO.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ro-RO.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ro-RO.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ru-RU.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ru-RU.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ru-RU.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ru-RU.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ru-RU.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ru-RU.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-sk-SK.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sk-SK.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-sk-SK.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sk-SK.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-sk-SK.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sk-SK.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-sl-SI.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sl-SI.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-sl-SI.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sl-SI.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-sl-SI.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sl-SI.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-sr-RS-Latin.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sr-RS-Latin.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-sr-RS-Latin.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sr-RS-Latin.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-sr-RS-Latin.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sr-RS-Latin.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-sr-RS.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sr-RS.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-sr-RS.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sr-RS.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-sr-RS.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sr-RS.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-sv-SE.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sv-SE.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-sv-SE.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sv-SE.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-sv-SE.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sv-SE.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ta-IN.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ta-IN.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ta-IN.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ta-IN.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-ta-IN.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ta-IN.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-th-TH.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-th-TH.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-th-TH.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-th-TH.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-th-TH.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-th-TH.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-tr-TR.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-tr-TR.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-tr-TR.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-tr-TR.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-tr-TR.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-tr-TR.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-uk-UA.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-uk-UA.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-uk-UA.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-uk-UA.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-uk-UA.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-uk-UA.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-uz-UZ.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-uz-UZ.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-uz-UZ.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-uz-UZ.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-uz-UZ.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-uz-UZ.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-vi-VN.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-vi-VN.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-vi-VN.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-vi-VN.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-vi-VN.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-vi-VN.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-zh-CN.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-zh-CN.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-zh-CN.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-zh-CN.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-zh-CN.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-zh-CN.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-zh-TW.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-zh-TW.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-zh-TW.js.map",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-zh-TW.js.map"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\lang\\summernote-zh-TW.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-zh-TW.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.css",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.min.css",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\plugin\\hello\\summernote-ext-hello.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\hello\\summernote-ext-hello.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\plugin\\hello\\summernote-ext-hello.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\hello\\summernote-ext-hello.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\summernote-bs5.min.css",
+      "PackagePath": "staticwebassets\\lib\\summernote\\summernote-bs5.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\summernote-bs5.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\summernote-bs5.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\summernote-lite.min.css",
+      "PackagePath": "staticwebassets\\lib\\summernote\\summernote-lite.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\summernote-lite.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\summernote-lite.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\summernote.min.css",
+      "PackagePath": "staticwebassets\\lib\\summernote\\summernote.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\summernote\\summernote.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\summernote.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\lib\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\media\\css\\amsify.suggestags.css",
+      "PackagePath": "staticwebassets\\media\\css\\amsify.suggestags.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\media\\css\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\media\\css\\dropzone.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\media\\css\\media-select.css",
+      "PackagePath": "staticwebassets\\media\\css\\media-select.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\media\\css\\notyf.min.css",
+      "PackagePath": "staticwebassets\\media\\css\\notyf.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\media\\images\\no-image.png",
+      "PackagePath": "staticwebassets\\media\\images\\no-image.png"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\media\\images\\no-media.png",
+      "PackagePath": "staticwebassets\\media\\images\\no-media.png"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\media\\js\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\media\\js\\dropzone.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\media\\js\\jquery.amsify.suggestags.js",
+      "PackagePath": "staticwebassets\\media\\js\\jquery.amsify.suggestags.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\media\\js\\media-select.js",
+      "PackagePath": "staticwebassets\\media\\js\\media-select.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\media\\js\\notyf.min.js",
+      "PackagePath": "staticwebassets\\media\\js\\notyf.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\media\\js\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\media\\js\\sweetalert.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\others\\css\\hierarchy-select.min.css",
+      "PackagePath": "staticwebassets\\others\\css\\hierarchy-select.min.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\others\\css\\order-track.css",
+      "PackagePath": "staticwebassets\\others\\css\\order-track.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\others\\css\\pagination.css",
+      "PackagePath": "staticwebassets\\others\\css\\pagination.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\others\\css\\profile.css",
+      "PackagePath": "staticwebassets\\others\\css\\profile.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\others\\js\\app-configuration.js",
+      "PackagePath": "staticwebassets\\others\\js\\app-configuration.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\others\\js\\app-settings.js",
+      "PackagePath": "staticwebassets\\others\\js\\app-settings.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\others\\js\\customer-account.js",
+      "PackagePath": "staticwebassets\\others\\js\\customer-account.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\others\\js\\hierarchy-select.min.js",
+      "PackagePath": "staticwebassets\\others\\js\\hierarchy-select.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\others\\js\\pagination.js",
+      "PackagePath": "staticwebassets\\others\\js\\pagination.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\others\\js\\profile.js",
+      "PackagePath": "staticwebassets\\others\\js\\profile.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\t.html",
+      "PackagePath": "staticwebassets\\t.html"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\themes\\admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\themes\\admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\themes\\admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\themes\\admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\themes\\admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\admin\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\themes\\admin\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\admin\\css\\button.css",
+      "PackagePath": "staticwebassets\\themes\\admin\\css\\button.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\admin\\css\\custom.css",
+      "PackagePath": "staticwebassets\\themes\\admin\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\admin\\css\\form.css",
+      "PackagePath": "staticwebassets\\themes\\admin\\css\\form.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\themes\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\admin\\css\\table.css",
+      "PackagePath": "staticwebassets\\themes\\admin\\css\\table.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\admin\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\themes\\admin\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\admin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\themes\\admin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\themes\\admin\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\shop\\css\\HotLine.css",
+      "PackagePath": "staticwebassets\\themes\\shop\\css\\HotLine.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\shop\\css\\style.css",
+      "PackagePath": "staticwebassets\\themes\\shop\\css\\style.css"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\themes\\shop\\js\\script.js",
+      "PackagePath": "staticwebassets\\themes\\shop\\js\\script.js"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\ticket - Copy.jpg",
+      "PackagePath": "staticwebassets\\ticket - Copy.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\ticket.html",
+      "PackagePath": "staticwebassets\\ticket.html"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\ticket.jpg",
+      "PackagePath": "staticwebassets\\ticket.jpg"
+    },
+    {
+      "Id": "D:\\TienDev2024\\Source Code thang 1\\API\\Ecommerce\\Ecommerce.Web.Mvc\\wwwroot\\ticket.pdf",
+      "PackagePath": "staticwebassets\\ticket.pdf"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.Ecommerce.Web.Mvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.Ecommerce.Web.Mvc.props",
+      "PackagePath": "build\\Ecommerce.Web.Mvc.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecommerce.Web.Mvc.props",
+      "PackagePath": "buildMultiTargeting\\Ecommerce.Web.Mvc.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.Ecommerce.Web.Mvc.props",
+      "PackagePath": "buildTransitive\\Ecommerce.Web.Mvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

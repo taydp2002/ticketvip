@@ -1,0 +1,12 @@
+{
+  "ConnectionStrings": {
+    "AppConnection": "Server=DESKTOP-S50IT9A\\SQLEXPRESS;Database=Db_news;User Id=sa;Password=Phamtien@123;MultipleActiveResultSets=true;TrustServerCertificate=True"
+  },
+  "DetailedErrors": true,
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  }
+}

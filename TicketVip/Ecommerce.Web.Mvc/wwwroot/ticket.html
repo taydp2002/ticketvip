@@ -1,0 +1,147 @@
+
+<div class="containner"><div class="row">
+	 <div class="col-md-6">
+     <div class="form-group">
+         <h1>THÔNG TIN ĐẶT HÀNG </h1>
+       
+             <div class="form-group" style="padding-left:45px">
+                 <label class="control-label">Mã quyét QR</label>
+                 <img src="@ViewBag.QrCodeUri" class="img-thumbnail" width="250px" />
+             </div>
+             <div class="form-group">
+                 <div class="col-lg-12">
+                     <div class="card mb-4">
+                         <div class="card-body">
+                             <div class="row">
+                                 <table class="table table-striped ">
+                                     <tbody>
+                                         <tr>
+                                             <td>Đối tác</td>
+                                             <td>@Model.DoiTac</td>
+                                         </tr>
+                                         <tr>
+                                             <td>Họ và tên / Custommer`s Name</td>
+                                             <td>{@Model.Name}</td>
+                                         </tr>
+                                         <tr>
+                                             <td>Số điện thoại / Phone</td>
+                                             <td colspan="2">@Model.Phone</td>
+                                         </tr>
+                                         <tr>
+                                             <td>Ngày đặt / Order Date</td>
+                                             <td colspan="2">@Model.Ngaydathang</td>
+                                         </tr>
+                                         <tr>
+                                             <td>Mã đơn hàng / Order Code</td>
+                                             <td colspan="2">@Model.MaDonHang</td>
+                                         </tr>
+                                         <tr>
+                                             <td>Phương thức Thanh toán / Payment</td>
+                                             <td colspan="2">@Model.LoaiThanhToan</td>
+                                         </tr>
+                                         <tr>
+                                             <td>Sản phẩm/ Dịch vụ</td>
+                                             <td colspan="2">@Html.Raw(Model.SanphamDichvu)</td>
+                                         </tr>
+                                     </tbody>
+                                 </table>
+                             </div>
+
+                             <div class="row">
+                                 <table class="table table-striped ">
+                                     <thead>
+                                         <tr>
+
+                                             <th scope="col">Loại vé</th>
+                                             <th scope="col">Số lượng</th>
+                                             <th scope="col">Tổng tiền</th>
+                                         </tr>
+                                     </thead>
+                                     <tbody>
+                                         <tr>
+
+                                             <td>Người lớn</td>
+                                             <td>@Model.TongNguoiLon.SoLuong</td>
+                                             <td>@Model.TongNguoiLon.Tong</td>
+                                         </tr>
+
+                                         <tr>
+
+                                             <td>Trẻ em</td>
+                                             <td>@Model.TongTreEm.SoLuong</td>
+                                             <td>@Model.TongTreEm.Tong</td>
+                                         </tr>
+                                         <tr>
+
+                                             <td>Tổng cộng</td>
+
+                                             <td colspan="2">@Model.Tongtien</td>
+                                         </tr>
+                                     </tbody>
+                                 </table>
+                             </div>
+
+
+                             <div class="row">
+                                 <div class="col-sm-3">
+                                     <p class="mb-0">Ghi chú</p>
+                                 </div>
+                                 <div class="col-sm-9">
+                                     <p class="text-muted mb-0">@Html.Raw(Model.Note)</p>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+                     <div class="row">
+                         <div class="col-md-6">
+                             <div class="card mb-4 mb-md-0">
+                                 <div class="card-body">
+                                     <p class="mb-4"><span class="text-primary font-italic me-1">ĐIỀU KHOẢN</span>  VÀ ĐIỀU KIỆN </p>
+
+                                     <p class="mt-4 mb-1" style="font-size:13px">-	Không hoàn tiền cho vé đã thanh toán. </p>
+                                     <div class="progress rounded mb-2" style="height: 5px;">
+                                         <div class="progress-bar" role="progressbar" style="width: 66%" aria-valuenow="66" aria-valuemin="0" aria-valuemax="100"></div>
+                                     </div>
+
+                                     <p class="mt-4 mb-1" style="font-size: .77rem;">
+                                         -	Người mua phải trình vé ở cửa để sử dụng dịch vụ/ sản phẩm. <br />
+                                         -	Người mua chịu trách nhiệm bảo mật thông tin mã vé. <br />
+                                         -	Khi mua vé, tức là người mua đã đồng ý với các điều khoản và điều kiện được ghi rõ tại ticketvip.vn.<br />
+
+                                     </p>
+                                     <div class="progress rounded" style="height: 5px;">
+                                         <div class="progress-bar" role="progressbar" style="width: 89%" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100"></div>
+                                     </div>
+
+                                 </div>
+                             </div>
+                         </div>
+                         <div class="col-md-6">
+                             <div class="card mb-4 mb-md-0">
+                                 <div class="card-body">
+                                     <p class="mb-4"><span class="text-primary font-italic me-1">Thông tin </span> xin vui lòng liên hệ </p>
+                                     <p class="mb-1" style="font-size: .77rem;">
+                                         Điện thoại / Phone : 0989 978 397<br />
+                                         Hotline/Zalo: 0989 249 297<br />
+                                         Email / Email:  dalatreview.vn@gmail.com<br />
+
+                                     </p>
+                                     <div class="progress rounded" style="height: 5px;">
+                                         <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                                     </div>
+                                     <p class="mt-4 mb-1" style="padding-left:40px">
+                                         <img src="https://ticketvip.vn/gallery/6c67deeb-cd13-495d-858e-8b8c4ca9146b.png" width="120px" title="Ticketvip.vn" />
+                                     </p>
+                                     <div class="progress rounded" style="height: 5px;">
+                                         <div class="progress-bar" role="progressbar" style="width: 72%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
+                                     </div>
+
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+    </div>
+     </div> </div>
+ </div>

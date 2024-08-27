@@ -1,0 +1,239 @@
+﻿@model Ecommerce.Application.Handlers.TicketBooking.Commands.CreateTicketBookingCommand;
+@{
+    ViewData["Title"] = "TicketCheck";
+    Layout = LayoutPage.ShopLayout;
+}
+@if (ViewBag.Status == 1 || ViewBag.Status == 0)
+{
+    <div class="container">
+        <div class="row">
+            <label class="alert alert-success">
+                Thông tin chi tiết vé:
+                @if (Model.Status == 1)
+                {
+                    <label class="alert alert-info">Vé chưa sử dụng</label>
+                }
+                else
+                {
+                    if (Model.Status == 2)
+                    {
+                        <label class="alert alert-danger">Vé đã sử dụng rồi</label>
+                    }
+                    else
+                    {
+                        <label class="alert alert-danger">Vé chưa thanh toán trước khi sử dụng</label>
+                    }
+
+                }
+            </label>
+            <div class="col-md-6">
+                <form asp-action="TicketConform">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input hidden asp-for="Id" />
+                    <input hidden asp-for="Status" />
+                    <input hidden asp-for="UserName" class="form-control" />
+                    <input hidden asp-for="DoiTac" class="form-control" />
+                    <input hidden asp-for="MaDonHang" class="form-control" />
+                    <input hidden asp-for="Tongtien" class="form-control" />
+                    <div class="alert alert-success" style="padding: 10px 10px;">
+
+                        <div class="form-group">
+                            <label class="control-label">Đối tác :@Model.DoiTac</label>
+
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label">Mã Đơn hàng: : @Model.MaDonHang</label>
+
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label">Người lớn: : @Model.TongNguoiLon.SoLuong</label>
+                            <label class="control-label">Trẻ em: : @Model.TongTreEm.SoLuong</label>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label">Tổng tiền: @Model.Tongtien</label>
+
+                        </div>
+                    </div>
+                    <h4>Thông tin Vé</h4>
+                    <div class="form-group">
+                        <label class="control-label">Họ và tên</label>
+                        <input readonly asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Số điện thoại</label>
+                        <input readonly asp-for="Phone" class="form-control" />
+                        <span asp-validation-for="Phone" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label">Sản phẩm - Dịch vụ </label>
+                        <input readonly asp-for="SanphamDichvu" class="form-control" />
+                        <span asp-validation-for="SanphamDichvu" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Ngày đặt vé</label>
+                        <input readonly asp-for="Ngaydathang" class="form-control" />
+                        <span asp-validation-for="Ngaydathang" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label">Ghi chú</label>
+                        <input readonly asp-for="Note" class="form-control" />
+                        <span asp-validation-for="Note" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        @if (Model.Status == 0 && ViewBag.Login == 2)
+                        {
+                            <input type="submit" value="Xác nhận Vé đã thanh toán đầy đủ tiền cho Đà Lạt Review" class="btn btn-success text-center" />
+                        }
+
+                        @if (Model.Status == 1 && ViewBag.Login == 0)
+                        {
+                            <input type="button" value="Vé bạn đã thanh toán đủ tiền, bạn có thể sử dụng vé!" class="btn btn-alert-danger text-center" />
+                        }
+
+                        @if (Model.Status == 2 && ViewBag.Login == 0)
+                        {
+                            <input type="button" value="Vé bạn đã đặt và Chưa thanh toán !" class="btn btn-alert-danger text-center" />
+                        }
+
+                    </div>
+                </form>
+
+            </div>
+            <div class="col-md-6">
+            </div>
+        </div>
+
+    </div>
+}
+else
+{
+
+    <div class="container">
+
+        <hr />
+        @if (ViewBag.Error == 1)
+        {
+            <label class="alert alert-warning">VÉ KHÔNG ĐƯỢC SỬ DỤNG TẠI ĐIỂM THĂM QUAN NÀY</label>
+            <h4>Bạn vui lòng kiểm tra lại đúng vé xuất trình tại điểm đến</h4>
+            <h5>Liên hệ Đà Lạt Review nếu gặp khó khăn khi sử dụng Dịch vụ</h5>
+        }
+        else
+        {
+
+            <div class="row">
+                <label class="alert alert-success">
+                    Thông tin chi tiết vé:
+                    @if (Model.Status == 1)
+                    {
+                        <label class="alert alert-info">Vé chưa sử dụng</label>
+                    }
+                    else
+                    {
+                        if (Model.Status == 2)
+                        {
+                            <label class="alert alert-danger">Vé đã sử dụng rồi</label>
+                        }
+                        else
+                        {
+                            <label class="alert alert-danger">Vé chưa thanh toán trước khi sử dụng</label>
+                        }
+
+                    }
+                </label>
+                <div class="col-md-6">
+                    <form asp-action="TicketCheck">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input hidden asp-for="Id" />
+                        <input hidden asp-for="Status" />
+                        <div class="form-group">
+                            <label asp-for="MaDonHang" class="control-label"></label>
+                            <input readonly asp-for="MaDonHang" class="form-control" />
+                            <span asp-validation-for="MaDonHang" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Tongtien" class="control-label"></label>
+                            <input readonly asp-for="Tongtien" class="form-control" />
+                            <span asp-validation-for="Tongtien" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="DoiTac" class="control-label"></label>
+                            <input readonly asp-for="DoiTac" class="form-control" />
+                            <span asp-validation-for="DoiTac" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Name" class="control-label"></label>
+                            <input readonly asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Phone" class="control-label"></label>
+                            <input readonly asp-for="Phone" class="form-control" />
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label  class="control-label">Vé Người lớn</label>
+                            <input readonly asp-for="TongNguoiLon.SoLuong" class="form-control" />
+                            <span asp-validation-for="TongNguoiLon.SoLuong" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label">Vé Trẻ em</label>
+                            <input readonly asp-for="TongTreEm.SoLuong" class="form-control" />
+                            <span asp-validation-for="TongTreEm.SoLuong" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="SanphamDichvu" class="control-label"></label>
+                            <input readonly asp-for="SanphamDichvu" class="form-control" />
+                            <span asp-validation-for="SanphamDichvu" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Ngaydathang" class="control-label"></label>
+                            <input readonly asp-for="Ngaydathang" class="form-control" />
+                            <span asp-validation-for="Ngaydathang" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Note" class="control-label"></label>
+                            <input readonly asp-for="Note" class="form-control" />
+                            <span asp-validation-for="Note" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="UserName" class="control-label"></label>
+                            <input readonly asp-for="UserName" class="form-control" />
+                            <span asp-validation-for="UserName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            @if (Model.Status == 1 && User.Identity.Name == Model.DoiTac)
+                            {
+                                <input type="submit" value="Xác nhận sử dụng vé" class="btn btn-success text-center" />
+                            }
+                            else
+                            {
+                                if (Model.Status == 1 && User.Identity.Name != Model.DoiTac)
+                                {
+                                    <input type="button" value="BẠN CHƯA CÓ QUYỀN XÁC NHẬN VÉ" class="btn btn-success text-center" />
+                                }
+                                @if (Model.Status == 2)
+                                {
+                                    <input type="button" value="Vé đã sử dụng - Hết hiệu lực" class="btn btn-danger text-center" />
+                                }
+                            }
+
+                        </div>
+                    </form>
+
+                </div>
+                <div class="col-md-6">
+                </div>
+            </div>
+        }
+    </div>
+
+}

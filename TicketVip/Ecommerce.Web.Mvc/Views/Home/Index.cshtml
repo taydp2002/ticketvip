@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = LayoutPage.ShopLayout;
+}
+@addTagHelper *,Ecommerce;
+<vc:home-slider></vc:home-slider>
+
+<vc:shop-feature></vc:shop-feature>
+<div>
+    @await Component.InvokeAsync("HomeDoiTac")
+</div>
+
+<vc:top-categories></vc:top-categories>
+

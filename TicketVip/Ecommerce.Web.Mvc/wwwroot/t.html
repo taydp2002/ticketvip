@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            text-align: center;
+            width: 26cm;
+            height: 29cm;
+            margin: 5mm 5mm 5mm 5mm;
+        }
+
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td,
+        th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+
+        .t {
+            text-align: center;
+            padding: 8px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="containner">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <h1>THÔNG TIN ĐẶT VÉ QR CODE</h1>
+
+                    <div class="form-group" style="padding-left:45px">
+
+                        <img src="{QRCode}" class="img-thumbnail" width="250px" />
+                    </div>
+                    <div class="form-group">
+                        <div class="col-lg-12">
+                            <div class="card mb-4">
+                                <div class="card-body">
+                                    <div class="row">
+                                        <table class="table table-striped ">
+                                            <tbody>
+                                                <tr>
+                                                    <td>Đối tác</td>
+                                                    <td>{DoiTac}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Họ và tên / Custommer`s Name</td>
+                                                    <td><strong style="color:red">{Name}</strong></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Số điện thoại / Phone</td>
+                                                    <td colspan="2"><strong>{Phone}</strong></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Ngày đặt / Order Date</td>
+                                                    <td colspan="2">{Ngaydathang}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Mã đơn hàng / Order Code</td>
+                                                    <td colspan="2">{MaDonHang}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Phương thức Thanh toán / Payment</td>
+                                                    <td colspan="2">{LoaiThanhToan}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Sản phẩm/ Dịch vụ</td>
+                                                    <td colspan="2"><strong>{SanphamDichvu}</strong></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+
+                                    <div class="row">
+                                        <table class="table table-striped ">
+                                            <thead>
+                                                <tr>
+
+                                                    <th scope="col">Loại vé</th>
+                                                    <th scope="col">Số lượng</th>
+                                                    <th scope="col">Tổng tiền</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+
+                                                    <td>Người lớn</td>
+                                                    <td>{TongNguoiLon.SoLuong}</td>
+                                                    <td>{TongNguoiLon.Tong} VNĐ</td>
+                                                </tr>
+
+                                                <tr>
+
+                                                    <td>Trẻ em</td>
+                                                    <td>{TongTreEm.SoLuong}</td>
+                                                    <td>{TongTreEm.Tong} VNĐ</td>
+                                                </tr>
+                                                <tr>
+
+                                                    <td>Tổng cộng</td>
+
+                                                    <td colspan="2"><strong style="color:red">{Tongtien}</strong> VNĐ
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+
+
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <p class="mb-0">Ghi chú: {Note}</p>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <table class="table t">
+                                    <tbody>
+                                        <tr>
+                                            <td><span class="text-primary font-italic me-1">ĐIỀU KHOẢN</span> VÀ ĐIỀU
+                                                KIỆN</td>
+                                            <td>
+                                                <span class="text-primary font-italic me-1">Thông tin </span> xin vui
+                                                lòng liên hệ
+
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+
+                                            <td>
+                                                - Không hoàn tiền cho vé đã thanh toán.<br />
+
+                                                - Người mua trình vé tại quầy vé để sử dụng dịch vụ/ sản phẩm. <br />
+                                                - Người mua chịu trách nhiệm bảo mật thông tin mã vé.<br />
+                                                - Khi mua vé, tức là người mua đã đồng ý với các điều khoản và điều kiện
+                                                được ghi rõ tại ticketvip.vn.<br />
+
+                                            </td>
+                                            <td>
+                                                Điện thoại / Phone : 0983.249.297<br />
+                                                Hotline/Zalo: 0983.249.297<br />
+                                                Email: dalatreview.vn@gmail.com<br />
+
+                                            </td>
+                                        </tr>
+
+                                    </tbody>
+                                </table>
+                                <p class="mt-4 mb-1" style="padding-left:40px">
+                                    <img src="https://ticketvip.vn/gallery/a2ed58af-b6e6-46f1-8830-f8c19e18217b.jpg"
+                                        width="120px" title="Ticketvip.vn" />
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+
+</body>
+
+</html>

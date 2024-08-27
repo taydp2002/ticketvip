@@ -1,0 +1,74 @@
+﻿@{
+    ViewData["Title"] = "Danh sách Vé";
+}
+
+@section Styles {
+
+}
+
+<div class="page-title-box">
+    <h4 class="page-title">Danh sách Vé Đã Sử dụng và Thanh toán</h4>
+</div>
+
+
+<div class="card mb-4">
+    @*  <div class="card-header">
+    @if (AuthorizationService.AuthorizeAsync(User, Permissions.Permissions_Category_Create).Result.Succeeded)
+    {
+    <a asp-action="Create" class="btn btn-blue"><i class="fa-solid fa-plus"></i> Create New</a>
+    }
+    </div> *@
+    <div class="card-body">
+        <div class="table-responsive">
+            <table id="tblCategory" class="table">
+                <thead class="thead-light">
+                    <tr>
+                        <th>Đối tác</th>
+                        <th>Mã Đơn Hàng</th>
+                        <th class="all">Họ Tên khách</th>
+                        <th>Phone</th>
+                        <th>Date Create</th>
+                        <th>Tổng tiền</th>
+
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    <script type="text/javascript">
+        $(function () {
+
+            suTable = $('#tblCategory').DataTable({
+                "pageLength": 100,
+                "processing": true,
+                "serverSide": true,
+                "responsive": true,
+                "autoWidth": false,
+                "ajax": $.fn.dataTable.pipeline({
+                    url: '@Url.Action("RenderView1")',
+                    pages: 100 //number of pages to cache
+                }),
+                "order": [[0, "desc"]],
+                "columnDefs": [
+                    { "targets": [4], "searchable": false, "orderable": false, "className": "text-end user-action" }
+                ],
+                "columns": [
+                    { "data": "doiTac", "name": "DoiTac" },
+                    { "data": "maDonHang", "name": "MaDonHang" },
+                    { "data": "name", "name": "Name" },
+                    { "data": "phone", "name": "Phone" },
+                    { "data": "lastModifiedDate", "name": "LastModifiedDate" },
+                    { "data": "tongtien", "name": "Tongtien" },
+
+                ]
+            });
+        });
+
+
+    </script>
+}

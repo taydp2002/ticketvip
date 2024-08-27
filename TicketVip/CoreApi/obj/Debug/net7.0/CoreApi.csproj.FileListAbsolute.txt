@@ -1,0 +1,217 @@
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\appsettings.Development.json
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\appsettings.json
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\CoreApi.exe
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\CoreApi.deps.json
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\CoreApi.runtimeconfig.json
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\CoreApi.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\CoreApi.pdb
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.csproj.AssemblyReference.cache
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.AssemblyInfoInputs.cache
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.AssemblyInfo.cs
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.csproj.CoreCompileInputs.cache
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.MvcApplicationPartsAssemblyInfo.cache
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\staticwebassets\msbuild.CoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\staticwebassets\msbuild.build.CoreApi.props
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CoreApi.props
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CoreApi.props
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\scopedcss\bundle\CoreApi.styles.css
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.csproj.CopyComplete
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\refint\CoreApi.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.pdb
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.genruntimeconfig.cache
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\ref\CoreApi.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\AutoMapper.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Azure.Core.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\MailKit.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\MediatR.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.DynamicLinq.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\MimeKit.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\PayPal.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Stripe.net.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Ecommerce.Application.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Ecommerce.Infrastructure.Sql.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Ecommerce.Application.pdb
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Ecommerce.Infrastructure.Sql.pdb
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\1appsettings.Development.json
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.MvcApplicationPartsAssemblyInfo.cs
+D:\2023\NetCore\core 7\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce\CoreApi\bin\Debug\net7.0\0appsettings.json
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\1appsettings.Development.json
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\0appsettings.json
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\appsettings.Development.json
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\appsettings.json
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\CoreApi.exe
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\CoreApi.deps.json
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\CoreApi.runtimeconfig.json
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\CoreApi.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\CoreApi.pdb
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\AutoMapper.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Azure.Core.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\MailKit.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\MediatR.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.DynamicLinq.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\MimeKit.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\PayPal.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Stripe.net.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Ecommerce.Application.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Ecommerce.Infrastructure.Sql.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Ecommerce.Application.pdb
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Ecommerce.Infrastructure.Sql.pdb
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.csproj.AssemblyReference.cache
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.AssemblyInfoInputs.cache
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.AssemblyInfo.cs
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.csproj.CoreCompileInputs.cache
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.MvcApplicationPartsAssemblyInfo.cs
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.MvcApplicationPartsAssemblyInfo.cache
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\staticwebassets\msbuild.CoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\staticwebassets\msbuild.build.CoreApi.props
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CoreApi.props
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CoreApi.props
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\scopedcss\bundle\CoreApi.styles.css
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.csproj.CopyComplete
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\refint\CoreApi.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.pdb
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.genruntimeconfig.cache
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\obj\Debug\net7.0\ref\CoreApi.dll
+D:\TienDev2024\Source Code thang 1\API\Ecommerce\CoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TienDev2024\Source Code thang 1\API\T\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.csproj.AssemblyReference.cache
+D:\TienDev2024\Source Code thang 1\API\T\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\TienDev2024\Source Code thang 1\API\T\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.AssemblyInfoInputs.cache
+D:\TienDev2024\Source Code thang 1\API\T\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.AssemblyInfo.cs
+D:\TienDev2024\Source Code thang 1\API\T\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.csproj.CoreCompileInputs.cache
+D:\TienDev2024\Source Code thang 1\API\T\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.MvcApplicationPartsAssemblyInfo.cs
+D:\TienDev2024\Source Code thang 1\API\T\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.MvcApplicationPartsAssemblyInfo.cache
+D:\TienDev2024\Source Code thang 1\API\T\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.dll
+D:\TienDev2024\Source Code thang 1\API\T\Ecommerce\CoreApi\obj\Debug\net7.0\refint\CoreApi.dll
+D:\TienDev2024\Source Code thang 1\API\T\Ecommerce\CoreApi\obj\Debug\net7.0\CoreApi.pdb

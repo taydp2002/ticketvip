@@ -1,0 +1,123 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\assets\svg\**" />
+    <Compile Remove="wwwroot\gallery\**" />
+    <EmbeddedResource Remove="wwwroot\assets\svg\**" />
+    <EmbeddedResource Remove="wwwroot\gallery\**" />
+    <None Remove="wwwroot\assets\svg\**" />
+    <None Remove="wwwroot\gallery\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\report\rdlc\Invoice.rdlc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.Reporting" Version="2.1.0" />
+    <PackageReference Include="CoreHtmlToImage" Version="1.0.6" />
+    <PackageReference Include="dropzone" Version="4.3.0" />
+    <PackageReference Include="DropzoneMvc" Version="1.5.0" />
+    <PackageReference Include="HtmlRenderer.Core" Version="1.5.0.6" />
+    <PackageReference Include="MailKit" Version="4.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.12" />
+    <PackageReference Include="Polybioz.HtmlRenderer.PdfSharp.Core" Version="1.0.0" />
+    <PackageReference Include="QRCoder" Version="1.4.1" />
+    <PackageReference Include="Select.HtmlToPdf.NetCore" Version="23.2.0" />
+    <PackageReference Include="System.Drawing.Common" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ecommerce.Application\Ecommerce.Application.csproj" />
+    <ProjectReference Include="..\Ecommerce.Infrastructure.Sql\Ecommerce.Infrastructure.Sql.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+    <Folder Include="wwwroot\lib\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="F:\SHARIF\Working\DotNet\Ecommerce Net7\eCommerce\Ecommerce.Web.Mvc\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="F:\SHARIF\Working\DotNet\Ecommerce Net7\eCommerce\Ecommerce.Web.Mvc\.editorconfig" />
+    <None Include="Views\Shared\Components\Dashboard\WeeklySalesChart\Default.cshtml" />
+    <None Include="Views\Shared\Components\FooterSocialMedia\Default.cshtml" />
+    <None Include="Views\Shared\Components\GlobalSearch\Default.cshtml" />
+    <None Include="Views\Shared\Components\HomeDoiTac\Default.cshtml" />
+    <None Include="Views\Shared\Components\HomeSlider\Default.cshtml" />
+    <None Include="Views\Shared\Components\Image\Default.cshtml" />
+    <None Include="Views\Shared\Components\ItemSort\Default.cshtml" />
+    <None Include="Views\Shared\Components\NavigationMenu\Default.cshtml" />
+    <None Include="Views\Shared\Components\PageSection\Default.cshtml" />
+    <None Include="Views\Shared\Components\PageSizeSection\Default.cshtml" />
+    <None Include="Views\Shared\Components\SearchSection\Default.cshtml" />
+    <None Include="Views\Shared\Components\Styles\Default.cshtml" />
+    <None Include="Views\Shared\Error.cshtml" />
+    <None Include="Views\Shared\NotFound.cshtml" />
+    <None Include="Views\Shared\_AdminLayout.cshtml" />
+    <None Include="Views\Shared\_AdminScripts.cshtml" />
+    <None Include="Views\Shared\_AdminStyles.cshtml" />
+    <None Include="Views\Shared\_CategoryBreadcumb.cshtml" />
+    <None Include="Views\Shared\_ChildMenuPartial.cshtml" />
+    <None Include="Views\Shared\_CleanLayout.cshtml" />
+    <None Include="Views\Shared\_CleanScripts.cshtml" />
+    <None Include="Views\Shared\_CleanStyles.cshtml" />
+    <None Include="Views\Shared\_PageSection.cshtml" />
+    <None Include="Views\Shared\_ShopFooter.cshtml" />
+    <None Include="Views\Shared\_ShopHeaderBottom.cshtml" />
+    <None Include="Views\Shared\_ShopHeaderTop.cshtml" />
+    <None Include="Views\Shared\_ShopLayout.cshtml" />
+    <None Include="Views\Shared\_ShopMobileMenu.cshtml" />
+    <None Include="Views\Shared\_ShopScripts.cshtml" />
+    <None Include="Views\Shared\_ShopStyles.cshtml" />
+    <None Include="Views\Shared\_SubCategory.cshtml" />
+    <None Include="wwwroot\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\js\jquery-3.6.3.min.js" />
+    <None Include="wwwroot\js\jquery.number.min.js" />
+    <None Include="wwwroot\js\offcanvas.js" />
+    <None Include="wwwroot\js\pre.js" />
+    <None Include="wwwroot\js\responsemenu.js" />
+    <None Include="wwwroot\js\scripts.js" />
+    <None Include="wwwroot\js\site.js" />
+    <None Include="wwwroot\js\su.form.populate.js" />
+    <None Include="wwwroot\media\js\dropzone.min.js" />
+    <None Include="wwwroot\media\js\jquery.amsify.suggestags.js" />
+    <None Include="wwwroot\media\js\media-select.js" />
+    <None Include="wwwroot\media\js\notyf.min.js" />
+    <None Include="wwwroot\media\js\sweetalert.min.js" />
+    <None Include="wwwroot\report\rdlc\Invoice.rdlc" />
+    <None Include="wwwroot\themes\admin\assets\demo\chart-area-demo.js" />
+    <None Include="wwwroot\themes\admin\assets\demo\chart-bar-demo.js" />
+    <None Include="wwwroot\themes\admin\assets\demo\chart-pie-demo.js" />
+    <None Include="wwwroot\themes\admin\assets\demo\datatables-demo.js" />
+    <None Include="wwwroot\themes\admin\assets\img\error-404-monochrome.svg" />
+    <None Include="wwwroot\themes\admin\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\themes\admin\js\datatables-simple-demo.js" />
+    <None Include="wwwroot\themes\admin\js\scripts.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Views\Booking\Create.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Views\Booking\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

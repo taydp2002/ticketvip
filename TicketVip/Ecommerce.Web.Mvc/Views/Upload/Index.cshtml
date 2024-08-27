@@ -1,0 +1,27 @@
+﻿
+@{
+	ViewData["Title"] = "Index";
+	Layout = null;
+}
+﻿@{
+	ViewBag.Title = "Index";
+}
+
+<link href="~/css/bootstrap.min.css" rel="stylesheet" />
+<script src="https://unpkg.com/dropzone@5/dist/min/dropzone.min.js"></script>
+<link rel="stylesheet"
+      href="https://unpkg.com/dropzone@5/dist/min/dropzone.min.css"
+      type="text/css" />
+
+
+<div class="row">
+    <div class="col-md-9">
+        <div id="dropzone">
+            <form action="/Upload/Upload" class="dropzone needsclick dz-clickable" id="uploader">
+                <div class="dz-message needsclick">
+                    Drop files here or click to upload.<br>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

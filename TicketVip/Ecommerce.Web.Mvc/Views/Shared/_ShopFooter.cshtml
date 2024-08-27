@@ -1,0 +1,99 @@
+﻿@{
+    GeneralConfigurationDto conGen = JsonSerializer.Deserialize<GeneralConfigurationDto>(K["GeneralConfiguration"])!;
+}
+
+<div class="footer-section bg-soft-grey">
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 mb-3">
+                    <h5 class="fw-bold h-7"></h5>
+                    <div style="max-width: 250px;">
+                        <div class="logo-area mb-4 h-6">
+                            <a class="text-dark text-decoration-none fw-bolder" href="/">
+                                @if (conGen?.CompanyLogo != null)
+                                {
+                                    <img src="/@conGen?.CompanyLogo" alt="logo" />
+                                }
+                                else
+                                {
+                                    <span class="fw-700">@conGen?.CompanyName</span>
+                                }
+                            </a>
+
+                        </div>
+                        <div>@conGen?.CompanySlogan</div>
+                        <div>
+                            <a href="tel:0989978397">
+                                Hotline: 0989978397
+                            </a>
+                        </div>
+                        <div>
+                            <a href="https://zalo.me/dalatreview">
+                                Zalo:0989978397
+                            </a>
+                        </div>
+                        <div>
+                            <a href="tel:0989978397">
+                                Hỗ trợ: 0989978397
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <h5 class="fw-bold h-7"> THÔNG TIN LIÊN HỆ</h5>
+                    <ul class="nav flex-column">
+
+                        <li>Công Ty TNHH Đà Lạt Review Tất Tần Tật</li>
+
+                        <li> 108 Lý Nam Đế, P8, TP Đà Lạt, Lâm Đồng</li>
+
+                        <li> Mã số công ty: 5801460907</li>
+
+                        <li>                            
+                            Thông tin tài khoản:
+                        </li>
+
+                        <li>
+                            Chủ tài khoản: NGUYỄN KIM NHẬT
+                        </li>
+
+                        <li>Ngân hàng: TECHCOMBANK</li>
+
+                        <li>Số tài khoản: 7836373839</li>
+                       
+                    </ul>
+                </div>
+             
+                <div class="col-md-4 mb-3">
+                    <h5 class="fw-bold h-7">Kết nối với chúng tôi</h5>
+                    <vc:footer-social-media></vc:footer-social-media>
+                    <div>
+                        <span class="d-block"><span class="fw-900 me-2"><i class="fa-solid fa-headset"></i></span> <span>@conGen?.CompanyContact</span></span>
+                        <span class="d-block"><span class="fw-900 me-2"><i class="fa-regular fa-envelope"></i></span> <span>@conGen?.CompanyEmail</span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</div>
+<link href="~/themes/shop/css/hotline.css" rel="stylesheet" />
+
+<div class="hotline-phone-ring-wrap">
+    <div class="hotline-phone-ring">
+        <div class="hotline-phone-ring-circle"></div>
+        <div class="hotline-phone-ring-circle-fill"></div>
+        <div class="hotline-phone-ring-img-circle"> <a href="tel:0989978397" class="pps-btn-img"> <img src="https://netweb.vn/img/hotline/icon.png" alt="so dien thoai" width="50"> </a></div>
+    </div>
+    <div class="hotline-bar">
+        <a href="tel:0989978397"> <span class="text-hotline">0989978397</span> </a>
+    </div>
+
+</div>
+<div class="float-icon-hotline">
+    <ul class="left-icon hotline">
+        <li class="hotline_float_icon"><a target="_blank" rel="nofollow" id="messengerButton" href="https://zalo.me/dalatreview"><i class="fa fa-zalo animated infinite tada"></i><span>Zalo</span></a></li>
+        <li class="hotline_float_icon"><a target="_blank" rel="nofollow" id="messengerButton" href="https://m.me/dalatreviewtattantat"><i class="fa fa-messenger animated infinite tada"></i><span>Facebook</span></a></li>
+    </ul>
+</div>
