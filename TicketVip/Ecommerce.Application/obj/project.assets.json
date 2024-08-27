@@ -3689,11 +3689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TicketVip\\TicketVip\\Ecommerce.Application\\Ecommerce.Application.csproj",
+      "projectUniqueName": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Application\\Ecommerce.Application.csproj",
       "projectName": "Ecommerce.Application",
-      "projectPath": "D:\\TicketVip\\TicketVip\\Ecommerce.Application\\Ecommerce.Application.csproj",
+      "projectPath": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Application\\Ecommerce.Application.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\TicketVip\\TicketVip\\Ecommerce.Application\\obj\\",
+      "outputPath": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3715,8 +3715,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\TicketVip\\TicketVip\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
-              "projectPath": "D:\\TicketVip\\TicketVip\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
+            "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+              "projectPath": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
             }
           }
         }

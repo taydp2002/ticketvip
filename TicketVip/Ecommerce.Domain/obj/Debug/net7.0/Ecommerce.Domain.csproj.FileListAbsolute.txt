@@ -46,3 +46,16 @@ D:\TicketVip\TicketVip\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.dll
 D:\TicketVip\TicketVip\Ecommerce.Domain\obj\Debug\net7.0\refint\Ecommerce.Domain.dll
 D:\TicketVip\TicketVip\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.pdb
 D:\TicketVip\TicketVip\Ecommerce.Domain\obj\Debug\net7.0\ref\Ecommerce.Domain.dll
+D:\projetc_web_landingPage\ticketvip\TicketVip\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.deps.json
+D:\projetc_web_landingPage\ticketvip\TicketVip\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\projetc_web_landingPage\ticketvip\TicketVip\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\projetc_web_landingPage\ticketvip\TicketVip\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.AssemblyReference.cache
+D:\projetc_web_landingPage\ticketvip\TicketVip\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetc_web_landingPage\ticketvip\TicketVip\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+D:\projetc_web_landingPage\ticketvip\TicketVip\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfo.cs
+D:\projetc_web_landingPage\ticketvip\TicketVip\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+D:\projetc_web_landingPage\ticketvip\TicketVip\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.sourcelink.json
+D:\projetc_web_landingPage\ticketvip\TicketVip\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.dll
+D:\projetc_web_landingPage\ticketvip\TicketVip\Ecommerce.Domain\obj\Debug\net7.0\refint\Ecommerce.Domain.dll
+D:\projetc_web_landingPage\ticketvip\TicketVip\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.pdb
+D:\projetc_web_landingPage\ticketvip\TicketVip\Ecommerce.Domain\obj\Debug\net7.0\ref\Ecommerce.Domain.dll

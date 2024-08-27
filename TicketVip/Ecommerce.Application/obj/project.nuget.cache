@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8AA3MPOepyI=",
+  "dgSpecHash": "r43A2V/D3qQ=",
   "success": true,
-  "projectFilePath": "D:\\TicketVip\\TicketVip\\Ecommerce.Application\\Ecommerce.Application.csproj",
+  "projectFilePath": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Application\\Ecommerce.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

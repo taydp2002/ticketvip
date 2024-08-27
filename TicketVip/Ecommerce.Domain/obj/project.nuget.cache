@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vUNdsTBZKTI=",
+  "dgSpecHash": "pEf5RXYrVjw=",
   "success": true,
-  "projectFilePath": "D:\\TicketVip\\TicketVip\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+  "projectFilePath": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.4\\microsoft.aspnetcore.cryptography.internal.7.0.4.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.4\\microsoft.aspnetcore.cryptography.keyderivation.7.0.4.nupkg.sha512",

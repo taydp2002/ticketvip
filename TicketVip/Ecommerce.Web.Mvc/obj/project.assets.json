@@ -15533,11 +15533,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TicketVip\\TicketVip\\Ecommerce.Web.Mvc\\Ecommerce.Web.Mvc.csproj",
+      "projectUniqueName": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Web.Mvc\\Ecommerce.Web.Mvc.csproj",
       "projectName": "Ecommerce.Web.Mvc",
-      "projectPath": "D:\\TicketVip\\TicketVip\\Ecommerce.Web.Mvc\\Ecommerce.Web.Mvc.csproj",
+      "projectPath": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Web.Mvc\\Ecommerce.Web.Mvc.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\TicketVip\\TicketVip\\Ecommerce.Web.Mvc\\obj\\",
+      "outputPath": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Web.Mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -15559,11 +15559,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\TicketVip\\TicketVip\\Ecommerce.Application\\Ecommerce.Application.csproj": {
-              "projectPath": "D:\\TicketVip\\TicketVip\\Ecommerce.Application\\Ecommerce.Application.csproj"
+            "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+              "projectPath": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Application\\Ecommerce.Application.csproj"
             },
-            "D:\\TicketVip\\TicketVip\\Ecommerce.Infrastructure.Sql\\Ecommerce.Infrastructure.Sql.csproj": {
-              "projectPath": "D:\\TicketVip\\TicketVip\\Ecommerce.Infrastructure.Sql\\Ecommerce.Infrastructure.Sql.csproj"
+            "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Infrastructure.Sql\\Ecommerce.Infrastructure.Sql.csproj": {
+              "projectPath": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Infrastructure.Sql\\Ecommerce.Infrastructure.Sql.csproj"
             }
           }
         }

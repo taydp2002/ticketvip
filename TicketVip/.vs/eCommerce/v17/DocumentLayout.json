@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\TicketVip\\TicketVip\\",
+  "WorkspaceRootPath": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{348A8CFF-F972-42DD-BF96-58891CA3D151}|Ecommerce.Web.Mvc\\Ecommerce.Web.Mvc.csproj|d:\\ticketvip\\ticketvip\\ecommerce.web.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{348A8CFF-F972-42DD-BF96-58891CA3D151}|Ecommerce.Web.Mvc\\Ecommerce.Web.Mvc.csproj|d:\\projetc_web_landingpage\\ticketvip\\ticketvip\\ecommerce.web.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{348A8CFF-F972-42DD-BF96-58891CA3D151}|Ecommerce.Web.Mvc\\Ecommerce.Web.Mvc.csproj|solutionrelative:ecommerce.web.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42910E83-BE85-4D0A-8A0D-8F74A3C0A343}|Ecommerce.Infrastructure.Sql\\Ecommerce.Infrastructure.Sql.csproj|d:\\projetc_web_landingpage\\ticketvip\\ticketvip\\ecommerce.infrastructure.sql\\dataaccess\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42910E83-BE85-4D0A-8A0D-8F74A3C0A343}|Ecommerce.Infrastructure.Sql\\Ecommerce.Infrastructure.Sql.csproj|solutionrelative:ecommerce.infrastructure.sql\\dataaccess\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Infrastructure.Sql\\DataAccess\\DataContext.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Infrastructure.Sql\\DataAccess\\DataContext.cs",
+              "ToolTip": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Infrastructure.Sql\\DataAccess\\DataContext.cs",
+              "RelativeToolTip": "Ecommerce.Infrastructure.Sql\\DataAccess\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:42:53.783Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\TicketVip\\TicketVip\\Ecommerce.Web.Mvc\\appsettings.json",
+              "DocumentMoniker": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Web.Mvc\\appsettings.json",
               "RelativeDocumentMoniker": "Ecommerce.Web.Mvc\\appsettings.json",
-              "ToolTip": "D:\\TicketVip\\TicketVip\\Ecommerce.Web.Mvc\\appsettings.json",
+              "ToolTip": "D:\\projetc_web_landingPage\\ticketvip\\TicketVip\\Ecommerce.Web.Mvc\\appsettings.json",
               "RelativeToolTip": "Ecommerce.Web.Mvc\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-27T04:24:24.86Z",
               "EditorCaption": ""
